@@ -1,0 +1,14 @@
+{
+  "trackingId": "fb358272-b42b-47a7-986b-33ebfdd2521f",
+  "status": "Queued",
+  "createdAt": "2022-07-02T07:48:07.696Z",
+  "from": "zoran",
+  "to": "+381644646697",
+  "body": "test msg",
+  "bodyAnalysis": {
+    "parts": 1,
+    "unicode": false,
+    "characters": 8
+  },
+  "flash": false
+}
